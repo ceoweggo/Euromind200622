@@ -2,8 +2,9 @@
 
 ** Globodain AI Algorithm ** 
 
-Mathematics function --> 
+Mathematics function --> math.tanh(x) tan
 
-* Libraries:
+* Libraries: numpy
 
 ** To AI training --> Tensorflow 
+** training AI data source --> www.alphavantage.co
