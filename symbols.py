@@ -60,9 +60,9 @@ with open('quotes.json') as file:
                 json.dump(news, file, indent=4)
 
 
-        ######################
+        #######################
         ### ACCOUNTING SECTION
-        ######################
+        #######################
 
         path_accounting = "accounting\{}".format(symbol_process+".json")
         if os.path.isfile(path_accounting):
