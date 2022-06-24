@@ -1,0 +1,56 @@
+[
+    {
+        "uuid": "ead82235-933d-3442-8092-807a55cf25ad",
+        "title": "Phoenix Motor Inc. Announces Closing of $15,750,000 Initial Public Offering",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/phoenix-motor-inc-announces-closing-195400611.html",
+        "providerPublishTime": 1654890840,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/CSf_vRIcdUG.xMSFWr50wQ--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ADfzN7EXkv6FaJo6BOaqlA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/28eb97f2d8bf53faa8d8c1e45d999e12",
+                    "width": 225,
+                    "height": 225,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/hvGHbQn4lXmif2CL07ZJvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ADfzN7EXkv6FaJo6BOaqlA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/28eb97f2d8bf53faa8d8c1e45d999e12",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PEV"
+        ]
+    },
+    {
+        "uuid": "21715b51-0482-3fe3-8747-9578b3472bc2",
+        "title": "Phoenix Motor Inc. Announces Pricing of $15,750,000 Initial Public Offering",
+        "publisher": "Business Wire",
+        "link": "https://finance.yahoo.com/news/phoenix-motor-inc-announces-pricing-020600487.html",
+        "providerPublishTime": 1654653960,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Nqda4DgzZwmIZoJfBXxpzg--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nzsxxoUh9yN217zkXglZkA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/484cb95eecaf6881d61398b6dd09571d",
+                    "width": 225,
+                    "height": 225,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/fVJUcWhDspDyi.zw1QhhzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nzsxxoUh9yN217zkXglZkA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/484cb95eecaf6881d61398b6dd09571d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "PEV"
+        ]
+    }
+]

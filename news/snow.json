@@ -1,0 +1,165 @@
+[
+    {
+        "uuid": "61ca1b17-2fe4-3c38-a3f5-e7bc60e8f1e2",
+        "title": "Why Snowflake Stock Surged Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/61ca1b17-2fe4-3c38-a3f5-e7bc60e8f1e2/why-snowflake-stock-surged.html",
+        "providerPublishTime": 1656024900,
+        "type": "STORY",
+        "relatedTickers": [
+            "SNOW"
+        ]
+    },
+    {
+        "uuid": "0845baa0-b4c4-311f-ba09-9198c559f3a5",
+        "title": "Nike exits Russia, Snowflake stock jumps, WeWork stock soars on upgrade",
+        "publisher": "Yahoo Finance Video",
+        "link": "https://finance.yahoo.com/video/nike-exits-russia-snowflake-stock-195358660.html",
+        "providerPublishTime": 1656014038,
+        "type": "VIDEO",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/AFhouQqi24HZBPZmM_rTog--~B/aD0yMzY1O3c9NDIwODthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3483f0b0-f32e-11ec-b73f-0e14f7426598",
+                    "width": 4208,
+                    "height": 2365,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/8D4grzlXySMiHtmapbautw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/3483f0b0-f32e-11ec-b73f-0e14f7426598",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "NKE",
+            "SNOW",
+            "WE"
+        ]
+    },
+    {
+        "uuid": "2bb51805-94c1-334d-8515-75d9421602dd",
+        "title": "Why CrowdStrike, MongoDB, and Datadog Are Surging Today",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/2bb51805-94c1-334d-8515-75d9421602dd/why-crowdstrike%2C-mongodb%2C-and.html",
+        "providerPublishTime": 1656009165,
+        "type": "STORY",
+        "relatedTickers": [
+            "CRWD",
+            "DDOG",
+            "MDB",
+            "SNOW"
+        ]
+    },
+    {
+        "uuid": "07230969-0152-338c-843b-b1501a113535",
+        "title": "These 2 Stocks Are Ready to Bounce, According to Wall Street",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/07230969-0152-338c-843b-b1501a113535/these-2-stocks-are-ready-to.html",
+        "providerPublishTime": 1656008100,
+        "type": "STORY",
+        "relatedTickers": [
+            "SNOW",
+            "VEEV"
+        ]
+    },
+    {
+        "uuid": "a1e7ec6b-53a6-32a8-a398-29bc712bf3cc",
+        "title": "Snowflake has catapulted into \u2018elite territory,\u2019 JPMorgan says in upgrade",
+        "publisher": "MarketWatch",
+        "link": "https://finance.yahoo.com/m/a1e7ec6b-53a6-32a8-a398-29bc712bf3cc/snowflake-has-catapulted-into.html",
+        "providerPublishTime": 1656000120,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/sjfyC9EwxJild0YiwlI83Q--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Hc8eoTNetgscD_dDbkCxeg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/522a3782c258e1a9677c9d32a81c81a6",
+                    "width": 1280,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/Whj0P1CoWAe_YuhfaVkqkw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/Hc8eoTNetgscD_dDbkCxeg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/522a3782c258e1a9677c9d32a81c81a6",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "^GSPC",
+            "SNOW"
+        ]
+    },
+    {
+        "uuid": "d661ef4c-3de3-3d5b-bdeb-3da10f9487bf",
+        "title": "Snowflake Stock Is Upgraded. It\u2019s a Favorite Among CIOs, Analyst Says.",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/d661ef4c-3de3-3d5b-bdeb-3da10f9487bf/snowflake-stock-is-upgraded..html",
+        "providerPublishTime": 1655994600,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/g5Xx45UtMvnTT0sifkvwnQ--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/P9woPL5cNOO1qWKxqOUJ5g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51603fbb65e69d00d15608b1a8b2a73d",
+                    "width": 1279,
+                    "height": 640,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/rUsh_gYefShMHc8ZwYyeHw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/P9woPL5cNOO1qWKxqOUJ5g--~B/aD02NDA7dz0xMjc5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/51603fbb65e69d00d15608b1a8b2a73d",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNOW"
+        ]
+    },
+    {
+        "uuid": "8465889f-dfab-3e7d-bafa-538db7f0314d",
+        "title": "Should You Buy Stocks in a Bear Market?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/8465889f-dfab-3e7d-bafa-538db7f0314d/should-you-buy-stocks-in-a.html",
+        "providerPublishTime": 1655992800,
+        "type": "STORY",
+        "relatedTickers": [
+            "^GSPC",
+            "SNOW"
+        ]
+    },
+    {
+        "uuid": "865263b4-b1ef-3b0a-8bfc-4c3cda1089da",
+        "title": "Is Snowflake Stock A Buy Or Sell Amid Software Sector Volatility?",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/865263b4-b1ef-3b0a-8bfc-4c3cda1089da/is-snowflake-stock-a-buy-or.html",
+        "providerPublishTime": 1655988767,
+        "type": "STORY",
+        "thumbnail": {
+            "resolutions": [
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/HZfgzcRCGzbTun.hSIBxig--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GcJculLNI8n.CJOFVuq4Og--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1220f49134b49d4a5c87a527da8ec23e",
+                    "width": 1012,
+                    "height": 572,
+                    "tag": "original"
+                },
+                {
+                    "url": "https://s.yimg.com/uu/api/res/1.2/JAgPzCBlJxiLbwGL_Zp9RQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/GcJculLNI8n.CJOFVuq4Og--~B/aD01NzI7dz0xMDEyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1220f49134b49d4a5c87a527da8ec23e",
+                    "width": 140,
+                    "height": 140,
+                    "tag": "140x140"
+                }
+            ]
+        },
+        "relatedTickers": [
+            "SNOW",
+            "MSFT",
+            "AMZN",
+            "GOOGL"
+        ]
+    }
+]
