@@ -1,0 +1,101 @@
+[{
+    "name": "MICROSOFT",
+    "symbol": "msft"
+},
+{
+    "name": "APPLE COMPUTER",
+    "symbol": "aapl"
+},
+{
+    "name": "AMAZON",
+    "symbol": "amzn"
+},
+{
+    "name": "GOGOLE (ALPHABET)",
+    "symbol": "goog"
+},
+{
+    "name": "COINBASE",
+    "symbol": "coin"
+},
+{
+    "name": "NETFLIX",
+    "symbol": "nflx"
+},
+{
+    "name": "Occidental Petroleum Corporation",
+    "symbol": "oxy"
+},
+{
+    "name": "Snowflake Inc.",
+    "symbol": "snow"
+},
+{
+    "name": "Phoenix Motor Inc.",
+    "symbol": "pev"
+},
+{
+    "name": "Fortinet, Inc",
+    "symbol": "ftnt"
+},
+{
+    "name": "Alibaba Group",
+    "symbol": "baba"
+},
+{
+    "name": "Kohl's Corporation",
+    "symbol": "kss"
+},
+{
+    "name": "Rite Aid Corporation",
+    "symbol": "rad"
+},
+{
+    "name": "Vinco Ventures, Inc.",
+    "symbol": "bbig"
+},
+{
+    "name": "Shift Technologies, Inc.",
+    "symbol": "sft"
+},
+{
+    "name": "CNS Pharmaceuticals, Inc.",
+    "symbol": "cnsp"
+},
+{
+    "name": "Gores Guggenheim, Inc.",
+    "symbol": "ggpi"
+},
+{
+    "name": "F-star Therapeutics, Inc.",
+    "symbol": "fstx"
+},
+{
+    "name": "Accenture plc",
+    "symbol": "acn"
+},
+{
+    "name": "NVIDIA Corporation",
+    "symbol": "nvda"
+},
+{
+    "name": "Carnival Corporation & plc",
+    "symbol": "ccl"
+},
+{
+    "name": "Roblox Corporation",
+    "symbol": "rblx"
+},
+{
+    "name": "Palantir Technologies Inc.",
+    "symbol": "pltr"
+},
+{
+    "name": "American Airlines Group Inc.",
+    "symbol": "aal"
+},
+{
+    "name": "Southwestern Energy Company",
+    "symbol": "swn"
+}
+]
