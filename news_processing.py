@@ -1,11 +1,11 @@
 import sys
+import json
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from newsapi import NewsApiClient
 from datetime import date, timedelta
 import matplotlib.pyplot as plt
 import yfinance as yf
-from numpy import MAY_SHARE_BOUNDS
 import pandas as pd
 import config
 import datetime
@@ -42,9 +42,13 @@ def GetArticlesSentiments(keyword, startd, sources_list = None, show_all_article
         #print(articles)
     
     article_content = ''
-    date_sentiments = {}
-    date_sentiments_list = []
     seen = set()
+    i = 0
+    pos = list()
+    neg = list()
+    neu = list()
+    compound = list() 
+    content = list()
     for article in articles['articles']:
         if str(article['title']) in seen:
             continue
@@ -52,20 +56,17 @@ def GetArticlesSentiments(keyword, startd, sources_list = None, show_all_article
             seen.add(str(article['title']))
         article_content = str(article['title']) + '. ' + str(article['description'])
         # Get the sentiment score
-        sentiment = sia.polarity_scores(article_content)['compound']
-        
-        date_sentiments.setdefault(mydate, []).append(sentiment)
-        date_sentiments_list.append((sentiment, article['url'], article['title'], article['description']))
-        date_sentiments_l = sorted(date_sentiments_list, key = lambda tup: tup[0],reverse=True)
-        sent_list = list(date_sentiments.values())[0]
-        # Return a dataframe with all sentiment scores and articles
-    return pd.DataFrame(date_sentiments_list, columns=['Sentiment','URL', 'Title','Description'])
+        comp = sia.polarity_scores(article_content)['compound']
+        positive = sia.polarity_scores(article_content)['pos']
+        negative = sia.polarity_scores(article_content)['neg']
+        neutral = sia.polarity_scores(article_content)['neu']
+        compound.append(comp)
+        pos.append(positive)
+        neg.append(negative)
+        neu.append(neutral)
+        content.append(article_content)
+    return pos,neu,neg,compound, content
+    
 sources = GetSources('business')
-return_articles = GetArticlesSentiments(keyword='stock', startd='2022-05-24', sources_list=sources, show_all_articles=True )
-#print(type(return_articles))
-return_articles.Sentiment.hist(bins=30,grid=False)
-return_articles.sort_values(by='Sentiment', ascending=True)[['Sentiment','URL']].head(5)
+pos, neu, neg, compound, context = GetArticlesSentiments(keyword='stock', startd='2022-05-28', sources_list=sources, show_all_articles=True )
 
-print(return_articles.Sentiment.mean())
-print(return_articles.Sentiment.count())
-print(return_articles.Description)
