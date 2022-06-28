@@ -1,209 +1,102 @@
 [
     {
-        "uuid": "a4e1885d-aea6-38e0-b663-2e79a173cf89",
-        "title": "We Think Fortinet (NASDAQ:FTNT) Can Manage Its Debt With Ease",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/think-fortinet-nasdaq-ftnt-manage-135004923.html",
-        "providerPublishTime": 1655905804,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7PmuilaldER6a1IQyWRA3A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WqdWK.nWNWL524wke6jUzg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/36ca5b522ba2e0a30acf16e5282f313b",
-                    "width": 1194,
-                    "height": 432,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bisAxFc_rAa55kYXHlf9xw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WqdWK.nWNWL524wke6jUzg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/36ca5b522ba2e0a30acf16e5282f313b",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT"
-        ]
+        "title": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM - Nasdaq",
+        "description": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM  Nasdaq",
+        "published date": "Mon, 27 Jun 2022 14:53:48 GMT",
+        "url": "https://www.nasdaq.com/articles/noteworthy-etf-inflows%3A-ijr-swn-adc-sm",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "758558ed-5483-3092-ad3c-96b4538b84c2",
-        "title": "Cybersecurity Stocks To Buy, Sell And Watch Amid RSA Conference",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/758558ed-5483-3092-ad3c-96b4538b84c2/cybersecurity-stocks-to-buy%2C.html",
-        "providerPublishTime": 1655815423,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/x001_uKy5xNj8H7.dqhTJA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9yUvFByYEcqYJ4vLblu_lg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc93328577694d4aa401c16a49f20873",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Q5SKxP7TbzQtPeB9mEc6zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/9yUvFByYEcqYJ4vLblu_lg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/dc93328577694d4aa401c16a49f20873",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ZS",
-            "FTNT",
-            "PANW",
-            "CYBR"
-        ]
+        "title": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019 - Business News Wales",
+        "description": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019  Business News Wales",
+        "published date": "Tue, 28 Jun 2022 03:55:33 GMT",
+        "url": "https://businessnewswales.com/cardiffs-unmissable-swn-festival-returns-full-scale-for-the-first-time-since-2019/",
+        "publisher": {
+            "href": "https://businessnewswales.com",
+            "title": "Business News Wales"
+        }
     },
     {
-        "uuid": "fa6b63f4-7a2d-3570-9350-361d96fb064d",
-        "title": "Fortinet (FTNT) Outpaces Stock Market Gains: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/fortinet-ftnt-outpaces-stock-market-215009637.html",
-        "providerPublishTime": 1655761809,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/UfBIh2Pl.gyxScZAbyc4xg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 900,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/3YJkCdSXGdMJn6gBH4vqJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0K2vxHTAGj_tGrBqjPJ8Cg--~B/aD02MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT"
-        ]
+        "title": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan - Nasdaq",
+        "description": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan  Nasdaq",
+        "published date": "Wed, 22 Jun 2022 13:02:00 GMT",
+        "url": "https://www.nasdaq.com/articles/southwestern-swn-rewards-shareholders-with-%241b-buyback-plan",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "48d917c1-45c2-328d-a80e-4260385146a5",
-        "title": "1 Stock Split Growth Stock to Buy Now",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/48d917c1-45c2-328d-a80e-4260385146a5/1-stock-split-growth-stock-to.html",
-        "providerPublishTime": 1655727900,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hOomEV8LHFIIe1U1riXhVw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xeR_3YXtMY69HtCpdf9dWw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcdbe02e55702c37ac8d84297d48b625",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/R8pP.AkmoS_cemA0zDNryQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xeR_3YXtMY69HtCpdf9dWw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fcdbe02e55702c37ac8d84297d48b625",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT",
-            "GOOGL",
-            "SHOP",
-            "AMZN"
-        ]
+        "title": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC - Nasdaq",
+        "description": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC  Nasdaq",
+        "published date": "Fri, 24 Jun 2022 20:29:55 GMT",
+        "url": "https://www.nasdaq.com/articles/after-hours-most-active-for-jun-24-2022-%3A-swn-amc-wbd-m-qrtea-sabr-meta-ovv-comm-stne-psfe",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "bd67227a-d80f-34ca-b002-103973d6c827",
-        "title": "This Recession-Proof Tech Is Rising on an Unstoppable Trend",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/bd67227a-d80f-34ca-b002-103973d6c827/this-recession-proof-tech-is.html",
-        "providerPublishTime": 1655381700,
-        "type": "STORY",
-        "relatedTickers": [
-            "FTNT"
-        ]
+        "title": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN) - Defense World",
+        "description": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN)  Defense World",
+        "published date": "Tue, 28 Jun 2022 08:53:25 GMT",
+        "url": "https://www.defenseworld.net/2022/06/28/state-of-alaska-department-of-revenue-has-5-57-million-stock-holdings-in-southwestern-energy-nyseswn.html",
+        "publisher": {
+            "href": "https://www.defenseworld.net",
+            "title": "Defense World"
+        }
     },
     {
-        "uuid": "4076dd5f-658f-3069-badb-b36624657408",
-        "title": "Fortinet Global Survey Uncovers Critical OT Security Challenges",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/fortinet-global-survey-uncovers-critical-130000427.html",
-        "providerPublishTime": 1655298000,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/94p7Ao.FpCGfYH5SZXW7aw--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JVKdfpnR8W88VqXQ_Sm2xA--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/2c4490e60858282b5eb94e6047ce7712",
-                    "width": 440,
-                    "height": 386,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZaPuNt3s07TTUTLM8Jp6og--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JVKdfpnR8W88VqXQ_Sm2xA--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/2c4490e60858282b5eb94e6047ce7712",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT"
-        ]
+        "title": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing - Cecil Daily",
+        "description": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 08:15:00 GMT",
+        "url": "https://www.cecildaily.com/business/biz-beat-swn-annual-meeting-sunmed-partners-with-cookies-free-tire-disposal-toys-for-tots/article_71301503-9312-5fa2-8ba8-7eff687aedc8.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "a3225035-53a2-370a-809e-2f8e57ae1f3b",
-        "title": "Fortinet to Support Singapore\u2019s Quest for Quantum-Safe Future",
-        "publisher": "GlobeNewswire",
-        "link": "https://finance.yahoo.com/news/fortinet-support-singapore-quest-quantum-230000414.html",
-        "providerPublishTime": 1655247600,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/94p7Ao.FpCGfYH5SZXW7aw--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/JVKdfpnR8W88VqXQ_Sm2xA--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/2c4490e60858282b5eb94e6047ce7712",
-                    "width": 440,
-                    "height": 386,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZaPuNt3s07TTUTLM8Jp6og--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/JVKdfpnR8W88VqXQ_Sm2xA--~B/aD0zODY7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/2c4490e60858282b5eb94e6047ce7712",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT"
-        ]
+        "title": "Bruce England looks back at 37 years with Susquehanna Workforce Network - Cecil Daily",
+        "description": "Bruce England looks back at 37 years with Susquehanna Workforce Network  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 07:45:00 GMT",
+        "url": "https://www.cecildaily.com/business/bruce-england-looks-back-at-37-years-with-susquehanna-workforce-network/article_2ffcda0b-09b0-52b4-acf2-eda114c1dd3f.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "73badcd4-a1fc-34a4-9db5-6c32825367ac",
-        "title": "Fortinet (FTNT) Gains As Market Dips: What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/fortinet-ftnt-gains-market-dips-220010893.html",
-        "providerPublishTime": 1655244010,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/BMNpzz3PBPNQU8HPiAFdwg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
-                    "width": 900,
-                    "height": 900,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/H0qde9v17QXaHeirm7UJkQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hYDVEF34jJNULlluFRTwjg--~B/aD05MDA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/39dfb058875b6e691de9136bc97a47b4",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "FTNT",
-            "^GSPC"
-        ]
+        "title": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com - Investing.com",
+        "description": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com  Investing.com",
+        "published date": "Tue, 21 Jun 2022 17:19:00 GMT",
+        "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-and-southwestern-energy-update-capital-returns-programs-sending-stocks-higher-432SI-2839395",
+        "publisher": {
+            "href": "https://www.investing.com",
+            "title": "Investing.com"
+        }
+    },
+    {
+        "title": "Current report pursuant to Section 13 or 15(d) - Form 8-K - EnerCom Inc.",
+        "description": "Current report pursuant to Section 13 or 15(d) - Form 8-K  EnerCom Inc.",
+        "published date": "Tue, 21 Jun 2022 22:38:19 GMT",
+        "url": "https://www.oilandgas360.com/current-report-pursuant-to-section-13-or-15d-form-8-k-831/",
+        "publisher": {
+            "href": "https://www.oilandgas360.com",
+            "title": "EnerCom Inc."
+        }
+    },
+    {
+        "title": "Sector Update: Energy Stocks Rally Premarket Tuesday - InvestorsObserver",
+        "description": "Sector Update: Energy Stocks Rally Premarket Tuesday  InvestorsObserver",
+        "published date": "Tue, 21 Jun 2022 13:21:23 GMT",
+        "url": "https://www.investorsobserver.com/news/mtnewswire/sector-update-energy-stocks-rally-premarket-tuesday-4",
+        "publisher": {
+            "href": "https://www.investorsobserver.com",
+            "title": "InvestorsObserver"
+        }
     }
 ]

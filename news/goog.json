@@ -1,225 +1,102 @@
 [
     {
-        "uuid": "f8b9c6ce-c30f-372f-8184-ad6e492ab6cf",
-        "title": "High-Yield Bonds Are Looking Like Bargains After an Awful First Half",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f8b9c6ce-c30f-372f-8184-ad6e492ab6cf/high-yield-bonds-are-looking.html",
-        "providerPublishTime": 1656050400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EzF1wrY81ouEW9tSraK5Cw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UGN5Q6y_JX4H98f11Y_qYw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/80c4b6cfa5b4e1d2bc934b71fca2e415",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1OetOowe86yaGRYY9nfLjQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UGN5Q6y_JX4H98f11Y_qYw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/80c4b6cfa5b4e1d2bc934b71fca2e415",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "AMZN",
-            "MRK"
-        ]
+        "title": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM - Nasdaq",
+        "description": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM  Nasdaq",
+        "published date": "Mon, 27 Jun 2022 14:53:48 GMT",
+        "url": "https://www.nasdaq.com/articles/noteworthy-etf-inflows%3A-ijr-swn-adc-sm",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "235252f8-f417-3fad-8d88-cc841151cbe6",
-        "title": "Jan. 6 Latest: GOP House Members Sought Pardons, Panel Hears",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/jan-6-latest-trump-told-195541906.html",
-        "providerPublishTime": 1656020280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/vRa5bnbyYJHTr1asAPbtZg--~B/aD04ODM7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xmGKkSuduiL5AsVMyAk4AQ--~B/aD04ODM7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/af472ba9de799a87c0054a8c58b6581d",
-                    "width": 1600,
-                    "height": 883,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/E9kGzLWnmcDYNGLmKb3yyw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xmGKkSuduiL5AsVMyAk4AQ--~B/aD04ODM7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_politics_602/af472ba9de799a87c0054a8c58b6581d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "PKREF"
-        ]
+        "title": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019 - Business News Wales",
+        "description": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019  Business News Wales",
+        "published date": "Tue, 28 Jun 2022 03:55:33 GMT",
+        "url": "https://businessnewswales.com/cardiffs-unmissable-swn-festival-returns-full-scale-for-the-first-time-since-2019/",
+        "publisher": {
+            "href": "https://businessnewswales.com",
+            "title": "Business News Wales"
+        }
     },
     {
-        "uuid": "0f56ac50-b752-35a7-bd3e-39bfd708c93e",
-        "title": "Google\u2019s suspended AI engineer corrects the record: He didn\u2019t hire an attorney for the \u2018sentient\u2019 chatbot, he just made introductions \u2014 the bot hired the lawyer",
-        "publisher": "Fortune",
-        "link": "https://finance.yahoo.com/news/google-suspended-ai-engineer-corrects-202200493.html",
-        "providerPublishTime": 1656015720,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QnREhdY9vQT86ImhPC0elA--~B/aD0xOTk2O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/abVVLHN6jUfK.1SpyQKdLA--~B/aD0xOTk2O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/0ea3816ff3fe1bb01ef18e2d02272161",
-                    "width": 3000,
-                    "height": 1996,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aSx404sTw_qIOc7iJ6CK6w--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/abVVLHN6jUfK.1SpyQKdLA--~B/aD0xOTk2O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/0ea3816ff3fe1bb01ef18e2d02272161",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL"
-        ]
+        "title": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan - Nasdaq",
+        "description": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan  Nasdaq",
+        "published date": "Wed, 22 Jun 2022 13:02:00 GMT",
+        "url": "https://www.nasdaq.com/articles/southwestern-swn-rewards-shareholders-with-%241b-buyback-plan",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "63900b56-c451-3c2e-ab4d-5f767d1919a7",
-        "title": "Alphabet and Meta Have an Ad Revenue Problem. What It Means for Their Stocks.",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/63900b56-c451-3c2e-ab4d-5f767d1919a7/alphabet-and-meta-have-an-ad.html",
-        "providerPublishTime": 1656011340,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/iIUA8TobYgMxuQ0cujMgqw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QI7I5EOZsXfv94R0..DGMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d86bac419a518d0dbc5ce0b019d9d123",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Fiwa0uTGLwB_eYExbyA9Mg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QI7I5EOZsXfv94R0..DGMg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/d86bac419a518d0dbc5ce0b019d9d123",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOGL",
-            "META",
-            "TWTR"
-        ]
+        "title": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC - Nasdaq",
+        "description": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC  Nasdaq",
+        "published date": "Fri, 24 Jun 2022 20:29:55 GMT",
+        "url": "https://www.nasdaq.com/articles/after-hours-most-active-for-jun-24-2022-%3A-swn-amc-wbd-m-qrtea-sabr-meta-ovv-comm-stne-psfe",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "08d3ca26-e7dc-3b6a-b048-06dc0144d7e6",
-        "title": "Walmart Amps Up Cloud Capabilities, Reducing Reliance on Tech Giants",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/08d3ca26-e7dc-3b6a-b048-06dc0144d7e6/walmart-amps-up-cloud.html",
-        "providerPublishTime": 1656005460,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PTRuJLXy8jajk2QL2YglAg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cQUiSBOR7_A4rRNlE2c3Rw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c61e5d4090832900171085e278935a98",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4F5VHptqFa4lQh_2JUvoeA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cQUiSBOR7_A4rRNlE2c3Rw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c61e5d4090832900171085e278935a98",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMT",
-            "MSFT",
-            "GOOGL",
-            "AMZN"
-        ]
+        "title": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN) - Defense World",
+        "description": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN)  Defense World",
+        "published date": "Tue, 28 Jun 2022 08:53:25 GMT",
+        "url": "https://www.defenseworld.net/2022/06/28/state-of-alaska-department-of-revenue-has-5-57-million-stock-holdings-in-southwestern-energy-nyseswn.html",
+        "publisher": {
+            "href": "https://www.defenseworld.net",
+            "title": "Defense World"
+        }
     },
     {
-        "uuid": "243e2765-9993-3ccf-a7c5-4e2bcd544a3c",
-        "title": "UPDATE 1-Apple and Android phones hacked by Italian spyware, Google says",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/news/1-apple-android-phones-hacked-172946234.html",
-        "providerPublishTime": 1656005386,
-        "type": "STORY",
-        "relatedTickers": [
-            "GOOGL",
-            "AAPL"
-        ]
+        "title": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing - Cecil Daily",
+        "description": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 08:15:00 GMT",
+        "url": "https://www.cecildaily.com/business/biz-beat-swn-annual-meeting-sunmed-partners-with-cookies-free-tire-disposal-toys-for-tots/article_71301503-9312-5fa2-8ba8-7eff687aedc8.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "2712ed54-53f7-30b7-b5ee-81b7af0c7a04",
-        "title": "Top 10 Stock Picks of Alec Litowitz and Ross Laser\u2019s Magnetar Capital",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/top-10-stock-picks-alec-171153156.html",
-        "providerPublishTime": 1656004313,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7bo6AuUyH9nc09pGOqK5Kw--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/0MzYEjpvpuQQZExsmHGvMw--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/17f123c9bb51f7d1d1615994b341be87",
-                    "width": 473,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zg6ad83e1KocMe7FqKvrdA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/0MzYEjpvpuQQZExsmHGvMw--~B/aD02MDA7dz00NzM7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/17f123c9bb51f7d1d1615994b341be87",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WBT",
-            "ROG",
-            "SJR",
-            "SAFM",
-            "GOOGL",
-            "AVGO",
-            "TMO"
-        ]
+        "title": "Bruce England looks back at 37 years with Susquehanna Workforce Network - Cecil Daily",
+        "description": "Bruce England looks back at 37 years with Susquehanna Workforce Network  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 07:45:00 GMT",
+        "url": "https://www.cecildaily.com/business/bruce-england-looks-back-at-37-years-with-susquehanna-workforce-network/article_2ffcda0b-09b0-52b4-acf2-eda114c1dd3f.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "6636e0ac-2692-3896-9132-622b33858a3e",
-        "title": "Meta Pulls Support for Tool Used to Keep Misinformation in Check",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/meta-pulls-support-tool-used-164431626.html",
-        "providerPublishTime": 1656002671,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/DB8vMAXmKq.WCCMoQHdUpQ--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/W8QzkMQUxEBve_8biyQIKw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/cd0ef74924b205ef389b4f37b86787c8",
-                    "width": 2000,
-                    "height": 1333,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wCQSDIFcY_d4Ch93lGjOZg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/W8QzkMQUxEBve_8biyQIKw--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/cd0ef74924b205ef389b4f37b86787c8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TWTR",
-            "NYT",
-            "TTSMX",
-            "META",
-            "GOOG",
-            "GOOGL",
-            "PKREF"
-        ]
+        "title": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com - Investing.com",
+        "description": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com  Investing.com",
+        "published date": "Tue, 21 Jun 2022 17:19:00 GMT",
+        "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-and-southwestern-energy-update-capital-returns-programs-sending-stocks-higher-432SI-2839395",
+        "publisher": {
+            "href": "https://www.investing.com",
+            "title": "Investing.com"
+        }
+    },
+    {
+        "title": "Current report pursuant to Section 13 or 15(d) - Form 8-K - EnerCom Inc.",
+        "description": "Current report pursuant to Section 13 or 15(d) - Form 8-K  EnerCom Inc.",
+        "published date": "Tue, 21 Jun 2022 22:38:19 GMT",
+        "url": "https://www.oilandgas360.com/current-report-pursuant-to-section-13-or-15d-form-8-k-831/",
+        "publisher": {
+            "href": "https://www.oilandgas360.com",
+            "title": "EnerCom Inc."
+        }
+    },
+    {
+        "title": "Sector Update: Energy Stocks Rally Premarket Tuesday - InvestorsObserver",
+        "description": "Sector Update: Energy Stocks Rally Premarket Tuesday  InvestorsObserver",
+        "published date": "Tue, 21 Jun 2022 13:21:23 GMT",
+        "url": "https://www.investorsobserver.com/news/mtnewswire/sector-update-energy-stocks-rally-premarket-tuesday-4",
+        "publisher": {
+            "href": "https://www.investorsobserver.com",
+            "title": "InvestorsObserver"
+        }
     }
 ]

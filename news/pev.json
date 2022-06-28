@@ -1,56 +1,102 @@
 [
     {
-        "uuid": "ead82235-933d-3442-8092-807a55cf25ad",
-        "title": "Phoenix Motor Inc. Announces Closing of $15,750,000 Initial Public Offering",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/phoenix-motor-inc-announces-closing-195400611.html",
-        "providerPublishTime": 1654890840,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/CSf_vRIcdUG.xMSFWr50wQ--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/ADfzN7EXkv6FaJo6BOaqlA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/28eb97f2d8bf53faa8d8c1e45d999e12",
-                    "width": 225,
-                    "height": 225,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/hvGHbQn4lXmif2CL07ZJvg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/ADfzN7EXkv6FaJo6BOaqlA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/28eb97f2d8bf53faa8d8c1e45d999e12",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PEV"
-        ]
+        "title": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM - Nasdaq",
+        "description": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM  Nasdaq",
+        "published date": "Mon, 27 Jun 2022 14:53:48 GMT",
+        "url": "https://www.nasdaq.com/articles/noteworthy-etf-inflows%3A-ijr-swn-adc-sm",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "21715b51-0482-3fe3-8747-9578b3472bc2",
-        "title": "Phoenix Motor Inc. Announces Pricing of $15,750,000 Initial Public Offering",
-        "publisher": "Business Wire",
-        "link": "https://finance.yahoo.com/news/phoenix-motor-inc-announces-pricing-020600487.html",
-        "providerPublishTime": 1654653960,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Nqda4DgzZwmIZoJfBXxpzg--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nzsxxoUh9yN217zkXglZkA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/484cb95eecaf6881d61398b6dd09571d",
-                    "width": 225,
-                    "height": 225,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/fVJUcWhDspDyi.zw1QhhzA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nzsxxoUh9yN217zkXglZkA--~B/aD0yMjU7dz0yMjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/484cb95eecaf6881d61398b6dd09571d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "PEV"
-        ]
+        "title": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019 - Business News Wales",
+        "description": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019  Business News Wales",
+        "published date": "Tue, 28 Jun 2022 03:55:33 GMT",
+        "url": "https://businessnewswales.com/cardiffs-unmissable-swn-festival-returns-full-scale-for-the-first-time-since-2019/",
+        "publisher": {
+            "href": "https://businessnewswales.com",
+            "title": "Business News Wales"
+        }
+    },
+    {
+        "title": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan - Nasdaq",
+        "description": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan  Nasdaq",
+        "published date": "Wed, 22 Jun 2022 13:02:00 GMT",
+        "url": "https://www.nasdaq.com/articles/southwestern-swn-rewards-shareholders-with-%241b-buyback-plan",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
+    },
+    {
+        "title": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC - Nasdaq",
+        "description": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC  Nasdaq",
+        "published date": "Fri, 24 Jun 2022 20:29:55 GMT",
+        "url": "https://www.nasdaq.com/articles/after-hours-most-active-for-jun-24-2022-%3A-swn-amc-wbd-m-qrtea-sabr-meta-ovv-comm-stne-psfe",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
+    },
+    {
+        "title": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN) - Defense World",
+        "description": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN)  Defense World",
+        "published date": "Tue, 28 Jun 2022 08:53:25 GMT",
+        "url": "https://www.defenseworld.net/2022/06/28/state-of-alaska-department-of-revenue-has-5-57-million-stock-holdings-in-southwestern-energy-nyseswn.html",
+        "publisher": {
+            "href": "https://www.defenseworld.net",
+            "title": "Defense World"
+        }
+    },
+    {
+        "title": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing - Cecil Daily",
+        "description": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 08:15:00 GMT",
+        "url": "https://www.cecildaily.com/business/biz-beat-swn-annual-meeting-sunmed-partners-with-cookies-free-tire-disposal-toys-for-tots/article_71301503-9312-5fa2-8ba8-7eff687aedc8.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
+    },
+    {
+        "title": "Bruce England looks back at 37 years with Susquehanna Workforce Network - Cecil Daily",
+        "description": "Bruce England looks back at 37 years with Susquehanna Workforce Network  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 07:45:00 GMT",
+        "url": "https://www.cecildaily.com/business/bruce-england-looks-back-at-37-years-with-susquehanna-workforce-network/article_2ffcda0b-09b0-52b4-acf2-eda114c1dd3f.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
+    },
+    {
+        "title": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com - Investing.com",
+        "description": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com  Investing.com",
+        "published date": "Tue, 21 Jun 2022 17:19:00 GMT",
+        "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-and-southwestern-energy-update-capital-returns-programs-sending-stocks-higher-432SI-2839395",
+        "publisher": {
+            "href": "https://www.investing.com",
+            "title": "Investing.com"
+        }
+    },
+    {
+        "title": "Current report pursuant to Section 13 or 15(d) - Form 8-K - EnerCom Inc.",
+        "description": "Current report pursuant to Section 13 or 15(d) - Form 8-K  EnerCom Inc.",
+        "published date": "Tue, 21 Jun 2022 22:38:19 GMT",
+        "url": "https://www.oilandgas360.com/current-report-pursuant-to-section-13-or-15d-form-8-k-831/",
+        "publisher": {
+            "href": "https://www.oilandgas360.com",
+            "title": "EnerCom Inc."
+        }
+    },
+    {
+        "title": "Sector Update: Energy Stocks Rally Premarket Tuesday - InvestorsObserver",
+        "description": "Sector Update: Energy Stocks Rally Premarket Tuesday  InvestorsObserver",
+        "published date": "Tue, 21 Jun 2022 13:21:23 GMT",
+        "url": "https://www.investorsobserver.com/news/mtnewswire/sector-update-energy-stocks-rally-premarket-tuesday-4",
+        "publisher": {
+            "href": "https://www.investorsobserver.com",
+            "title": "InvestorsObserver"
+        }
     }
 ]

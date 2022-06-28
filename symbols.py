@@ -1,5 +1,7 @@
 from genericpath import exists
+import gnews
 import yfinance as yf
+from gnews import GNews
 import json, os
 
 # Opening the quotes file
@@ -41,14 +43,14 @@ with open('quotes.json') as file:
         ################
         ### NEWS SECTION
         ################
-        
+        google_news = GNews(language="en", period='7d', max_results=10)
         path_news = "news\{}".format(symbol_process+".json")
         if os.path.isfile(path_news):
             pass
         else:
             print('Downloading the news about '+symbol_process+'...')
             if symbol.news:
-                news = symbol.news
+                news = google_news.get_news(symbol_name['symbol'])
                 print('News downloaded!')
             else:
                 print('Not exist news information about {} symbol'.format(symbol_process))

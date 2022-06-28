@@ -1,244 +1,102 @@
 [
     {
-        "uuid": "f9775a79-c5ba-3549-a812-10be9f3f6302",
-        "title": "Stocks cling to gains into the close, ARKK components surge, travel stocks in the red",
-        "publisher": "Yahoo Finance Video",
-        "link": "https://finance.yahoo.com/video/stocks-cling-gains-close-arkk-191414124.html",
-        "providerPublishTime": 1656011654,
-        "type": "VIDEO",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wenQ7bw6zIvYUw..eb2Nhg--~B/aD0xMzM5O3c9MjM4NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
-                    "width": 2385,
-                    "height": 1339,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/bZP2dSM5b9LKvl9pZMvyLg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-uploaded-images/2022-06/a774bdd0-f328-11ec-af3b-decde91d086c",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "^GSPC",
-            "0P0001CRXW.F",
-            "^IXIC",
-            "^DJI",
-            "^TNX",
-            "MSFT",
-            "ZM",
-            "^TYX",
-            "BKNG",
-            "NNGPF",
-            "PATH",
-            "CRSP",
-            "UAL",
-            "ARKK",
-            "TSLA"
-        ]
+        "title": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM - Nasdaq",
+        "description": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM  Nasdaq",
+        "published date": "Mon, 27 Jun 2022 14:53:48 GMT",
+        "url": "https://www.nasdaq.com/articles/noteworthy-etf-inflows%3A-ijr-swn-adc-sm",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "08d3ca26-e7dc-3b6a-b048-06dc0144d7e6",
-        "title": "Walmart Amps Up Cloud Capabilities, Reducing Reliance on Tech Giants",
-        "publisher": "The Wall Street Journal",
-        "link": "https://finance.yahoo.com/m/08d3ca26-e7dc-3b6a-b048-06dc0144d7e6/walmart-amps-up-cloud.html",
-        "providerPublishTime": 1656005460,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PTRuJLXy8jajk2QL2YglAg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cQUiSBOR7_A4rRNlE2c3Rw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c61e5d4090832900171085e278935a98",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/4F5VHptqFa4lQh_2JUvoeA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cQUiSBOR7_A4rRNlE2c3Rw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/c61e5d4090832900171085e278935a98",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "WMT",
-            "MSFT",
-            "GOOGL",
-            "AMZN"
-        ]
+        "title": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019 - Business News Wales",
+        "description": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019  Business News Wales",
+        "published date": "Tue, 28 Jun 2022 03:55:33 GMT",
+        "url": "https://businessnewswales.com/cardiffs-unmissable-swn-festival-returns-full-scale-for-the-first-time-since-2019/",
+        "publisher": {
+            "href": "https://businessnewswales.com",
+            "title": "Business News Wales"
+        }
     },
     {
-        "uuid": "c7c09e64-a76f-3d8f-9015-cdfd7bb9a9bb",
-        "title": "Profit Off the Bear Market With Microsoft Stock",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/c7c09e64-a76f-3d8f-9015-cdfd7bb9a9bb/profit-off-the-bear-market.html",
-        "providerPublishTime": 1655999146,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/Oot48yNJiHGLME8AYkbvCQ--~B/aD0zNjY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/emADkx.rl35WTyckrkh.CQ--~B/aD0zNjY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d72a1de940c5cc5e79e32f8ae5be8743",
-                    "width": 1400,
-                    "height": 366,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/wwySxht24XfUPff828PJVg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/emADkx.rl35WTyckrkh.CQ--~B/aD0zNjY7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d72a1de940c5cc5e79e32f8ae5be8743",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "GOOGL"
-        ]
+        "title": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan - Nasdaq",
+        "description": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan  Nasdaq",
+        "published date": "Wed, 22 Jun 2022 13:02:00 GMT",
+        "url": "https://www.nasdaq.com/articles/southwestern-swn-rewards-shareholders-with-%241b-buyback-plan",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "5667bec6-8465-3c17-b4cb-5c63803d446b",
-        "title": "Zoom (ZM) Unveils New Packaging And Translation Feature",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/zoom-zm-unveils-packaging-translation-151103328.html",
-        "providerPublishTime": 1655997063,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/aSXQl5czuLjHgQRkYRWKTw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/nCGcWiRyjK9nJ3QTskppoA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f490790dcd0ae23c98fcb08adbb52277",
-                    "width": 635,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/D.HPegB0tpU2tzczqnGtPg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/nCGcWiRyjK9nJ3QTskppoA--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f490790dcd0ae23c98fcb08adbb52277",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "ZM",
-            "MSFT",
-            "RNG"
-        ]
+        "title": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC - Nasdaq",
+        "description": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC  Nasdaq",
+        "published date": "Fri, 24 Jun 2022 20:29:55 GMT",
+        "url": "https://www.nasdaq.com/articles/after-hours-most-active-for-jun-24-2022-%3A-swn-amc-wbd-m-qrtea-sabr-meta-ovv-comm-stne-psfe",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "f9e3c029-2453-38e6-a9bf-eedc0ce911bd",
-        "title": "Top Millennial, Gen Z Stocks Shift To Energy Plays; Popular Pick Tesla's CEO Musk Says New Factories 'Losing Billions Of Dollars'",
-        "publisher": "Investor's Business Daily",
-        "link": "https://finance.yahoo.com/m/f9e3c029-2453-38e6-a9bf-eedc0ce911bd/top-millennial%2C-gen-z-stocks.html",
-        "providerPublishTime": 1655994627,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/OxMxHN4Mqxi6ViMnoL4wGQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jyYDBjHF7bnIEtCEQeuhfg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1856de03212e386cb58e628bf758fa91",
-                    "width": 1000,
-                    "height": 563,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QDrZD1F6KZ0kJnLSuECdIQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/jyYDBjHF7bnIEtCEQeuhfg--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/1856de03212e386cb58e628bf758fa91",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "TSLA",
-            "AMC",
-            "AAPL",
-            "AMD",
-            "MSFT",
-            "NVDA"
-        ]
+        "title": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN) - Defense World",
+        "description": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN)  Defense World",
+        "published date": "Tue, 28 Jun 2022 08:53:25 GMT",
+        "url": "https://www.defenseworld.net/2022/06/28/state-of-alaska-department-of-revenue-has-5-57-million-stock-holdings-in-southwestern-energy-nyseswn.html",
+        "publisher": {
+            "href": "https://www.defenseworld.net",
+            "title": "Defense World"
+        }
     },
     {
-        "uuid": "5a4b585c-5896-30eb-8f89-d206d36cd95c",
-        "title": "3 Top Tech Stocks That Could Help Make You Rich by Retirement",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/5a4b585c-5896-30eb-8f89-d206d36cd95c/3-top-tech-stocks-that-could.html",
-        "providerPublishTime": 1655990247,
-        "type": "STORY",
-        "relatedTickers": [
-            "TSM",
-            "IBM",
-            "AAPL",
-            "MSFT",
-            "AMD"
-        ]
+        "title": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing - Cecil Daily",
+        "description": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 08:15:00 GMT",
+        "url": "https://www.cecildaily.com/business/biz-beat-swn-annual-meeting-sunmed-partners-with-cookies-free-tire-disposal-toys-for-tots/article_71301503-9312-5fa2-8ba8-7eff687aedc8.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "fbc63879-4633-38eb-a4f0-0507982ee93e",
-        "title": "10 Best Staffing Company Stocks To Invest In",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/10-best-staffing-company-stocks-130614605.html",
-        "providerPublishTime": 1655989574,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/beQzvosyTmUkLYMGunq8UQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/FTtxpHkcTEUQ9lbyx33X1Q--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/32ff798ba909913d42c23d64aa5210e6",
-                    "width": 768,
-                    "height": 512,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/21nMUVA.FpAcpI7qDvvRag--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/FTtxpHkcTEUQ9lbyx33X1Q--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/32ff798ba909913d42c23d64aa5210e6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "HSON",
-            "KFRC",
-            "CCRN",
-            "RGP",
-            "GOOGL",
-            "MSFT"
-        ]
+        "title": "Bruce England looks back at 37 years with Susquehanna Workforce Network - Cecil Daily",
+        "description": "Bruce England looks back at 37 years with Susquehanna Workforce Network  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 07:45:00 GMT",
+        "url": "https://www.cecildaily.com/business/bruce-england-looks-back-at-37-years-with-susquehanna-workforce-network/article_2ffcda0b-09b0-52b4-acf2-eda114c1dd3f.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "09fd1f44-db90-3168-bef5-2f35043e2579",
-        "title": "Bill Gates\u2019 Latest Stock Portfolio: Top 10 Picks",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/bill-gates-latest-stock-portfolio-130423985.html",
-        "providerPublishTime": 1655989463,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/QyBLyGVsATvc7B2x5JJNtw--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/WdlMtSNB2dnEC7MMj2iajg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/519b4fabd64da12727a0c936a0737c4d",
-                    "width": 450,
-                    "height": 600,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/e8ibCQL4860_HIKiGKwXdw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/WdlMtSNB2dnEC7MMj2iajg--~B/aD02MDA7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/519b4fabd64da12727a0c936a0737c4d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "MSFT",
-            "CCI",
-            "BRK-B",
-            "TSLA",
-            "DE",
-            "WMT",
-            "KOF",
-            "CAT",
-            "ECL"
-        ]
+        "title": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com - Investing.com",
+        "description": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com  Investing.com",
+        "published date": "Tue, 21 Jun 2022 17:19:00 GMT",
+        "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-and-southwestern-energy-update-capital-returns-programs-sending-stocks-higher-432SI-2839395",
+        "publisher": {
+            "href": "https://www.investing.com",
+            "title": "Investing.com"
+        }
+    },
+    {
+        "title": "Current report pursuant to Section 13 or 15(d) - Form 8-K - EnerCom Inc.",
+        "description": "Current report pursuant to Section 13 or 15(d) - Form 8-K  EnerCom Inc.",
+        "published date": "Tue, 21 Jun 2022 22:38:19 GMT",
+        "url": "https://www.oilandgas360.com/current-report-pursuant-to-section-13-or-15d-form-8-k-831/",
+        "publisher": {
+            "href": "https://www.oilandgas360.com",
+            "title": "EnerCom Inc."
+        }
+    },
+    {
+        "title": "Sector Update: Energy Stocks Rally Premarket Tuesday - InvestorsObserver",
+        "description": "Sector Update: Energy Stocks Rally Premarket Tuesday  InvestorsObserver",
+        "published date": "Tue, 21 Jun 2022 13:21:23 GMT",
+        "url": "https://www.investorsobserver.com/news/mtnewswire/sector-update-energy-stocks-rally-premarket-tuesday-4",
+        "publisher": {
+            "href": "https://www.investorsobserver.com",
+            "title": "InvestorsObserver"
+        }
     }
 ]

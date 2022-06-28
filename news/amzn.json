@@ -1,233 +1,102 @@
 [
     {
-        "uuid": "f8b9c6ce-c30f-372f-8184-ad6e492ab6cf",
-        "title": "High-Yield Bonds Are Looking Like Bargains After an Awful First Half",
-        "publisher": "Barrons.com",
-        "link": "https://finance.yahoo.com/m/f8b9c6ce-c30f-372f-8184-ad6e492ab6cf/high-yield-bonds-are-looking.html",
-        "providerPublishTime": 1656050400,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/EzF1wrY81ouEW9tSraK5Cw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UGN5Q6y_JX4H98f11Y_qYw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/80c4b6cfa5b4e1d2bc934b71fca2e415",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/1OetOowe86yaGRYY9nfLjQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/UGN5Q6y_JX4H98f11Y_qYw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/80c4b6cfa5b4e1d2bc934b71fca2e415",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "GOOG",
-            "GOOGL",
-            "AMZN",
-            "MRK"
-        ]
+        "title": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM - Nasdaq",
+        "description": "Noteworthy ETF Inflows: IJR, SWN, ADC, SM  Nasdaq",
+        "published date": "Mon, 27 Jun 2022 14:53:48 GMT",
+        "url": "https://www.nasdaq.com/articles/noteworthy-etf-inflows%3A-ijr-swn-adc-sm",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "5d374362-6410-3ff7-9f5e-77d73d9bea5e",
-        "title": "Chipotle Workers Push to Form Union at Maine Location",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/chipotle-workers-push-form-union-215911292.html",
-        "providerPublishTime": 1656021551,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/jFK._78hcxQqqB73mF38Mw--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/QybgryCyqFXi22AMxLoGgQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/fe7cbfd42879a7e6236853de957657f6",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/zrlfu.p4G9ZnQLxwTBeeRg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QybgryCyqFXi22AMxLoGgQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_politics_602/fe7cbfd42879a7e6236853de957657f6",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "SBUX",
-            "CMG",
-            "AAPL",
-            "RMPL-P",
-            "AMZN"
-        ]
+        "title": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019 - Business News Wales",
+        "description": "Cardiff's Unmissable S\u0175n Festival Returns Full-Scale for the First Time Since 2019  Business News Wales",
+        "published date": "Tue, 28 Jun 2022 03:55:33 GMT",
+        "url": "https://businessnewswales.com/cardiffs-unmissable-swn-festival-returns-full-scale-for-the-first-time-since-2019/",
+        "publisher": {
+            "href": "https://businessnewswales.com",
+            "title": "Business News Wales"
+        }
     },
     {
-        "uuid": "fc107a5b-ce48-3ec5-9196-4c07e3a96f15",
-        "title": "Amazon to commit $23M for affordable housing projects in Seattle",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/fc107a5b-ce48-3ec5-9196-4c07e3a96f15/amazon-to-commit-%2423m-for.html",
-        "providerPublishTime": 1656020739,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/TPqscWw95tsFGPlaph9wkQ--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/msNxoByRC1iXeFQ_XeQ3_w--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/23506e00cde60a49c7ce4136567426a5",
-                    "width": 1440,
-                    "height": 959,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/7gI4H6NCOej2G4Co5s.zrQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/msNxoByRC1iXeFQ_XeQ3_w--~B/aD05NTk7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/23506e00cde60a49c7ce4136567426a5",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
+        "title": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan - Nasdaq",
+        "description": "Southwestern (SWN) Rewards Shareholders With $1B Buyback Plan  Nasdaq",
+        "published date": "Wed, 22 Jun 2022 13:02:00 GMT",
+        "url": "https://www.nasdaq.com/articles/southwestern-swn-rewards-shareholders-with-%241b-buyback-plan",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "caceab18-a656-3584-b6fc-796b7a514987",
-        "title": "Amazon\u2019s Alexa Impersonates Grandma, Creeping Out Internet",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/news/amazon-alexa-impersonates-grandma-creeping-184558390.html",
-        "providerPublishTime": 1656019355,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/t3KEBWHt76GVQoQcW1RlOQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/uu/api/res/1.2/EwlXPuQfR9atFM52nmz2tg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/d69e712101cfcb188b6badfedaa0177f",
-                    "width": 2000,
-                    "height": 1334,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/pSJmIdGYvCSmw9B1V6QbWg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/EwlXPuQfR9atFM52nmz2tg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/d69e712101cfcb188b6badfedaa0177f",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
+        "title": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC - Nasdaq",
+        "description": "After Hours Most Active for Jun 24, 2022 : SWN, AMC, WBD, M, QRTEA, SABR, META, OVV, COMM, STNE, PSFE, RRC  Nasdaq",
+        "published date": "Fri, 24 Jun 2022 20:29:55 GMT",
+        "url": "https://www.nasdaq.com/articles/after-hours-most-active-for-jun-24-2022-%3A-swn-amc-wbd-m-qrtea-sabr-meta-ovv-comm-stne-psfe",
+        "publisher": {
+            "href": "https://www.nasdaq.com",
+            "title": "Nasdaq"
+        }
     },
     {
-        "uuid": "dafc7871-edc4-3008-b776-55265dbda8b4",
-        "title": "Cool or creepy? Amazon\u2019s Alexa could soon replicate voices of dead people",
-        "publisher": "MarketWatch",
-        "link": "https://finance.yahoo.com/m/dafc7871-edc4-3008-b776-55265dbda8b4/cool-or-creepy%3F-amazon%E2%80%99s.html",
-        "providerPublishTime": 1656017280,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/A__inccpD9q1bE6IPjvFTw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cGQAx2FIz_fDAhIPLwiBVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/e5c7f97fe8ff4e9b2058ad040ee7631d",
-                    "width": 1280,
-                    "height": 640,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RWg6pUoL3_SUG62Aovjpdg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/cGQAx2FIz_fDAhIPLwiBVQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketwatch.com/e5c7f97fe8ff4e9b2058ad040ee7631d",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
+        "title": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN) - Defense World",
+        "description": "State of Alaska Department of Revenue Has $5.57 Million Stock Holdings in Southwestern Energy (NYSE:SWN)  Defense World",
+        "published date": "Tue, 28 Jun 2022 08:53:25 GMT",
+        "url": "https://www.defenseworld.net/2022/06/28/state-of-alaska-department-of-revenue-has-5-57-million-stock-holdings-in-southwestern-energy-nyseswn.html",
+        "publisher": {
+            "href": "https://www.defenseworld.net",
+            "title": "Defense World"
+        }
     },
     {
-        "uuid": "9e33f1d5-06cf-3448-bae8-92677e6804e3",
-        "title": "Why Rivian Shares Have Been Taking Off This Week",
-        "publisher": "Motley Fool",
-        "link": "https://finance.yahoo.com/m/9e33f1d5-06cf-3448-bae8-92677e6804e3/why-rivian-shares-have-been.html",
-        "providerPublishTime": 1656015180,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/9LbK7Yw.6yYFtFnYmLFF3A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hsPLkU7FsgRQ2T06r_466A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b3cfc8bfd7309f058889c36d110529d7",
-                    "width": 1400,
-                    "height": 933,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/RTGyF0xZgyWp77_2zBpbRQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/hsPLkU7FsgRQ2T06r_466A--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b3cfc8bfd7309f058889c36d110529d7",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "RIVN",
-            "AMZN"
-        ]
+        "title": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing - Cecil Daily",
+        "description": "Biz Beat: SWN annual meeting, SunMed partners with Cookies, free tire disposal, Toys For Tots Golf Outing  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 08:15:00 GMT",
+        "url": "https://www.cecildaily.com/business/biz-beat-swn-annual-meeting-sunmed-partners-with-cookies-free-tire-disposal-toys-for-tots/article_71301503-9312-5fa2-8ba8-7eff687aedc8.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "61a0eed4-a4c9-33f7-88b7-2726dd3f0e99",
-        "title": "Natick hydrogen startup secures $198M to advance decarbonization tech",
-        "publisher": "American City Business Journals",
-        "link": "https://finance.yahoo.com/m/61a0eed4-a4c9-33f7-88b7-2726dd3f0e99/natick-hydrogen-startup.html",
-        "providerPublishTime": 1656014563,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/PJWttJdwda_kqeo5iCJr1A--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QylObb7JT1fDRl2iAdNTyQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/2f0f74eeed22a0dc73b8ad5479bed0c8",
-                    "width": 1440,
-                    "height": 960,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/ZyBvq0DfEH3zZiagdINqmg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/QylObb7JT1fDRl2iAdNTyQ--~B/aD05NjA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bizjournals.com/2f0f74eeed22a0dc73b8ad5479bed0c8",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "RIO",
-            "RTNTF",
-            "RTPPF",
-            "HON",
-            "AMZN",
-            "EQNR",
-            "STOHF",
-            "TCVNF"
-        ]
+        "title": "Bruce England looks back at 37 years with Susquehanna Workforce Network - Cecil Daily",
+        "description": "Bruce England looks back at 37 years with Susquehanna Workforce Network  Cecil Daily",
+        "published date": "Wed, 22 Jun 2022 07:45:00 GMT",
+        "url": "https://www.cecildaily.com/business/bruce-england-looks-back-at-37-years-with-susquehanna-workforce-network/article_2ffcda0b-09b0-52b4-acf2-eda114c1dd3f.html",
+        "publisher": {
+            "href": "https://www.cecildaily.com",
+            "title": "Cecil Daily"
+        }
     },
     {
-        "uuid": "6f9323ac-fb75-3325-97f3-2dc0d0dc253d",
-        "title": "Citi's Key Takeaways On Amazon's Recent Management Reshuffle",
-        "publisher": "Benzinga",
-        "link": "https://finance.yahoo.com/news/citis-key-takeaways-amazons-recent-194023617.html",
-        "providerPublishTime": 1656013223,
-        "type": "STORY",
-        "thumbnail": {
-            "resolutions": [
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/6B064yk37lD.3057oxkv1w--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/uu/api/res/1.2/RfB.ghHA0HlIf6no9xBtnA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/4467d12cac6aaa88b851bbf29f811416",
-                    "width": 600,
-                    "height": 400,
-                    "tag": "original"
-                },
-                {
-                    "url": "https://s.yimg.com/uu/api/res/1.2/W_VGfe6D7daU6ZMCJV2j2g--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/RfB.ghHA0HlIf6no9xBtnA--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/4467d12cac6aaa88b851bbf29f811416",
-                    "width": 140,
-                    "height": 140,
-                    "tag": "140x140"
-                }
-            ]
-        },
-        "relatedTickers": [
-            "AMZN"
-        ]
+        "title": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com - Investing.com",
+        "description": "Diamondback Energy and Southwestern Energy Update Capital Returns Programs, Sending Stocks Higher By Investing.com  Investing.com",
+        "published date": "Tue, 21 Jun 2022 17:19:00 GMT",
+        "url": "https://www.investing.com/news/stock-market-news/diamondback-energy-and-southwestern-energy-update-capital-returns-programs-sending-stocks-higher-432SI-2839395",
+        "publisher": {
+            "href": "https://www.investing.com",
+            "title": "Investing.com"
+        }
+    },
+    {
+        "title": "Current report pursuant to Section 13 or 15(d) - Form 8-K - EnerCom Inc.",
+        "description": "Current report pursuant to Section 13 or 15(d) - Form 8-K  EnerCom Inc.",
+        "published date": "Tue, 21 Jun 2022 22:38:19 GMT",
+        "url": "https://www.oilandgas360.com/current-report-pursuant-to-section-13-or-15d-form-8-k-831/",
+        "publisher": {
+            "href": "https://www.oilandgas360.com",
+            "title": "EnerCom Inc."
+        }
+    },
+    {
+        "title": "Sector Update: Energy Stocks Rally Premarket Tuesday - InvestorsObserver",
+        "description": "Sector Update: Energy Stocks Rally Premarket Tuesday  InvestorsObserver",
+        "published date": "Tue, 21 Jun 2022 13:21:23 GMT",
+        "url": "https://www.investorsobserver.com/news/mtnewswire/sector-update-energy-stocks-rally-premarket-tuesday-4",
+        "publisher": {
+            "href": "https://www.investorsobserver.com",
+            "title": "InvestorsObserver"
+        }
     }
 ]
